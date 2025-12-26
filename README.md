@@ -6,8 +6,8 @@ Passionné Linux focalisé sur l'optimisation système et la documentation de l'
 
 | Projet | Description |
 | :--- | :--- |
-| **[Architect](https://github.com/Cardiacman13/Architect)** | Script de déploiement et de configuration d'environnement Linux automatisé. |
-| **[kvm-qemu-virt-manager](https://github.com/Cardiacman13/kvm-qemu-virt-manager)** | Script de déploiement et de configuration d'environnement Linux automatisé. |
+| **[Architect](https://github.com/Cardiacman13/Architect)** | Script de post installation d'Arch Linux automatisé. |
+| **[kvm-qemu-virt-manager](https://github.com/Cardiacman13/kvm-qemu-virt-manager)** | Script de déploiement et de configuration de Virt Manager. |
 
 ## 📚 Documentation Technique
 
