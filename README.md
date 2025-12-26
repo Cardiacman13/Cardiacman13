@@ -2,7 +2,7 @@
 
 Passionné Linux focalisé sur l'optimisation système et la documentation de l'écosystème Gaming.
 
-## 🛠️ Automatisation
+## 🛠️ Script d'Automatisation / Configuration
 
 | Projet | Description |
 | :--- | :--- |
@@ -14,7 +14,11 @@ Passionné Linux focalisé sur l'optimisation système et la documentation de l'
 ### 🎮 Gaming sur Linux
 - **[Wine, Proton & UMU](https://github.com/Cardiacman13/Explications-proton-wine-et-umu)** : Vulgarisation pour débutants du fonctionnement de Wine, Proton & UMU.
 - **[Heroic Games Launcher](https://github.com/Cardiacman13/guide-heroic)** : Guide d'utilisation et de dépanage de Heroic Games Launcher.
+- **[Lutris](https://github.com/Cardiacman13/guide-lutris)** : Guide d'utilisation et de dépanage de Lutris.
+- **[Steam](https://github.com/Cardiacman13/steam-guide-fr)** : Guide d'utilisation et de dépanage de Steam.
+- **[Astuces Gaming/Performances](https://github.com/Cardiacman13/astuces-gaming)** : Astuces Diverses.
 
 ### 🖥️ Administration Système
 - **[Nextcloud](https://github.com/Cardiacman13/nextcloud)** : Guide de déploiement pour cloud auto-hébergé.
+- **[Parefeu](https://github.com/Cardiacman13/guide-pare-feu)** : Guide de configuration ufw.
 - **[Gestion des Disques](https://github.com/Cardiacman13/Guide-d-butant-formater-et-monter)** : Tutoriel sur le formatage, le partitionnement et le montage de volumes (fstab).
