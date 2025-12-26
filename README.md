@@ -1,6 +1,6 @@
 # Cardiacman13
 
-Passionné Linux focalisé sur l'optimisation système et la documentation de l'écosystème Gaming.
+Passionné par Linux, focalisé sur l'optimisation système et la documentation de l'écosystème Gaming.
 
 ## 🛠️ Script d'Automatisation / Configuration
 
