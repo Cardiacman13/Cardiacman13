@@ -12,8 +12,8 @@ Passionné Linux focalisé sur l'optimisation système et la documentation de l'
 ## 📚 Documentation Technique
 
 ### 🎮 Gaming sur Linux
-- **[Wine, Proton & UMU](https://github.com/Cardiacman13/Explications-proton-wine-et-umu)** : Analyse technique des runtimes et de la conteneurisation pour le jeu.
-- **[Heroic Games Launcher](https://github.com/Cardiacman13/guide-heroic)** : Guide de gestion des bibliothèques Epic Games et GOG.
+- **[Wine, Proton & UMU](https://github.com/Cardiacman13/Explications-proton-wine-et-umu)** : Vulgarisation pour débutants du fonctionnement de Wine, Proton & UMU.
+- **[Heroic Games Launcher](https://github.com/Cardiacman13/guide-heroic)** : Guide d'utilisation et de dépanage de Heroic Games Launcher.
 
 ### 🖥️ Administration Système
 - **[Nextcloud](https://github.com/Cardiacman13/nextcloud)** : Guide de déploiement pour cloud auto-hébergé.
