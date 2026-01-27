@@ -17,7 +17,7 @@ Passionné par Linux, focalisé sur l'optimisation système et la documentation 
 - **[Lutris](https://github.com/Cardiacman13/guide-lutris)** : Guide d'utilisation et de dépanage de Lutris.
 - **[Steam](https://github.com/Cardiacman13/steam-guide-fr)** : Guide d'utilisation et de dépanage de Steam.
 - **[Astuces Gaming/Performances](https://github.com/Cardiacman13/astuces-gaming)** : Astuces Diverses.
-- **[Lancer Un Launcher Non Steam dans Steam Linux](https://github.com/Cardiacman13/nonsteamlaunchertuto/blob/main/README.md)** : Guie pour lancer Bnet, Epic, ubisoft, EA et autres launchers dans Steam.
+- **[Lancer Un Launcher dans Steam Linux](https://github.com/Cardiacman13/nonsteamlaunchertuto/blob/main/README.md)** : Guide pour lancer Bnet, Epic, ubisoft, EA et autres launchers dans Steam.
 
 ### 🖥️ Administration Système
 - **[Nextcloud](https://github.com/Cardiacman13/nextcloud)** : Guide de déploiement pour cloud auto-hébergé.
