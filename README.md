@@ -18,6 +18,7 @@ Passionné par Linux, focalisé sur l'optimisation système et la documentation 
 - **[Steam](https://github.com/Cardiacman13/steam-guide-fr)** : Guide d'utilisation et de dépanage de Steam.
 - **[Astuces Gaming/Performances](https://github.com/Cardiacman13/astuces-gaming)** : Astuces Diverses.
 - **[Lancer Un Launcher dans Steam Linux](https://github.com/Cardiacman13/nonsteamlaunchertuto/blob/main/README.md)** : Guide pour lancer Bnet, Epic, ubisoft, EA et autres launchers dans Steam.
+- **[Améliorer énormément le son sur Linux](https://github.com/Cardiacman13/amelioration-son-linux)** : Guide pour rattraper le manque des drivers realtek, dolby etc. Ça va sauver votre pc portable.
 
 ### 🖥️ Administration Système
 - **[Nextcloud](https://github.com/Cardiacman13/nextcloud)** : Guide de déploiement pour cloud auto-hébergé.
